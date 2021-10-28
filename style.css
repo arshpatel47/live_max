@@ -26,8 +26,8 @@ body{
 
 }
 .menu-bar{
-    
-    background-color:#0db7eb;
+     
+    background-color:#0E2B5CFE;
     text-align:center; 
 
 }
@@ -47,16 +47,16 @@ body{
 .menu-bar ul li a
 {
     text-decoration: none;
-    color: rgb(14, 7, 7)
+    color: #00b7fffe;
     
 }
 .menu-bar ul li a:hover{
-    color: darkblue;
+    color: #9E2A04FE;
 
 }
 .active,.menu-bar ul li:hover
 {
-    background: rgb(252, 251, 251);
+    background: #fffffffe;
     border-radius: 3px; 
 
 }
@@ -96,7 +96,7 @@ body{
 }
 .menu-bar ul li:hover .sub-menu-1 ul li a:hover
 {
-  color: grey;  
+  color: #9E2A04FE;  
 }
 
 #banner
@@ -113,10 +113,10 @@ body{
     
    
     text-align: center;
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 700;
-    margin-top: 100px;
-    color: rgb(15, 171, 233)
+    margin-top: 140px;
+    color: #0E2B5CFE;
     
     
 }
@@ -127,7 +127,7 @@ body{
     font-size: 50px;
    font-weight: 700;
    margin-top: 10px; 
-   color: rgb(37, 37, 37)
+   color: #9E2A04FE
 }
 .therd-title
 {
@@ -189,14 +189,15 @@ h5{
 }
 .news2{
     
-    background-color: #b9cc0ef5;
+    background-color: #9E2A04FE;
   
 }
 .imp{
     
     
     border-color: #0db7eb;
-    color: rgb(233, 19, 19);
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
     
 }
 .impb{
@@ -206,7 +207,7 @@ h5{
 }
 .img52{
   
-    background-color: rgb(31, 69, 78);
+    background-color: rgb(231, 231, 231);
 }
 .nav__toggle {
     color: var(--second-color);
